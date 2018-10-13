@@ -55,6 +55,18 @@ main > .tagline {
 	font-weight: 100;
 }
 
+main > .img {
+    border:1px solid #ddd;
+	border-radius: 4px;
+    padding: 5px;
+    /*width: 150px;*/
+    width:10%;
+    margin-left: auto;
+    margin-right:auto;
+
+
+}
+
 .icons-social i {
 	padding: 10px;
 }
@@ -77,3 +89,4 @@ main > .tagline {
 	margin-right: auto;
 	width: 50%;
 }
+

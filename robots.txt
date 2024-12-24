@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashery.github.io/al-folio/sitemap.xml
+Sitemap: https://ashery.github.io//sitemap.xml

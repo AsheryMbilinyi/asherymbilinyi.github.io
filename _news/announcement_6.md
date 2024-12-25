@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be delivering a talk titled "Convolutional Networks for ECG Signal Analysis" at the Radiology AI Symposium at Vancouver General Hospital.
+I gave a talk titled "Convolutional Networks for ECG Signal Analysis" at the Radiology AI Symposium at Vancouver General Hospital.

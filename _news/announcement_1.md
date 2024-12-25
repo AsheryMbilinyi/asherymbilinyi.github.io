@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be contributing as an admissions reviewer to the first Africa Computer Vision Summer School ([ACVSS](https://www.acvss.ai/)), hosted by Microsoft Research (MARI) in Nairobi, Kenya.
+I served as an admissions reviewer to the first Africa Computer Vision Summer School ([ACVSS](https://www.acvss.ai/)), hosted by Microsoft Research (MARI) in Nairobi, Kenya.

@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor and head of the Medical Computer Vision (MCV) lab at the Department of Computer Science at the University of Victoria. I research computer vision, machine learning, and information retrieval methods to **interpret the contents of medical images** and their associated clinical data,  aiming to augment clinicians' diagnostics and decision-making processes.
+I am an Assistant Professor and head of the Medical Computer Vision (MCV) lab at the Department of Computer Science at the University of Victoria(UVic). I research computer vision, machine learning, and information retrieval methods to **interpret the contents of medical images** and their associated clinical data,  aiming to augment clinicians' diagnostics and decision-making processes.
 
 
 Before joining UVic, I worked as a Postdoctoral Researcher at the University of British Columbia, focusing on multimodal machine learning for cardiovascular disease intervention and management under the mentorship of [Prof. Roger Tam](https://bme.ubc.ca/?directory=roger-tam). I earned my Ph.D. from the University of Basel, **Switzerland**, where I had the privilege of working with [Prof. Heiko Schuldt](https://dbis.dmi.unibas.ch/team/heiko-schuldt/) and [Prof. Volker Roth](https://bmda.dmi.unibas.ch/people/volker.roth/) on Medical Image Retrieval to augment Diagnostic Radiology. Prior to that, I completed my M.Sc. at the Japan Advanced Institute of Science and Technology (JAIST), **Japan**, and my B.Eng. at the Dar es Salaam Institute of Technology (DIT), **Tanzania**.

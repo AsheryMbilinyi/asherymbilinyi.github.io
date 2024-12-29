@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Our paper on the role of machine learning in detection of cardioac fibrosis from electrocardiogram is accepted in [JMIR Cardio](https://preprints.jmir.org/preprint/60697/accepted).
+Our paper on the role of machine learning in detection of cardioac fibrosis from electrocardiogram is accepted in [JMIR](https://preprints.jmir.org/preprint/60697/accepted).

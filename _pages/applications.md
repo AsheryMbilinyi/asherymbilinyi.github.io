@@ -34,12 +34,13 @@ Please highlight relevant course grades, competition awards, publications, and e
 
 ## What if I'm just getting started?
 
-Here are some books I highly recommend for getting started in **computer vision**, **machine learning**, and **information retrieval**:
+Here are some books I highly recommend for getting started:
 
 - **Goodfellow, I. (2016).** [*Deep Learning*](https://www.deeplearningbook.org/)  
 - **Bishop, C.M. (2006).** [*Pattern Recognition and Machine Learning*](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)  
 - **Szeliski, R. (2010).** [*Computer Vision: Algorithms and Applications*](https://szeliski.org/Book/)  
 - **Manning, C.D., Raghavan, P., & Schütze, H. (2010).** [*Introduction to Information Retrieval*](https://www-nlp.stanford.edu/IR-book/)
+- **Topol, E. (2019).** [*Deep Medicine*](https://www.amazon.ca/Deep-Medicine-Artificial-Intelligence-Healthcare/dp/1541644638)
 
-Best of luck as you explore these exciting fields!
+Enjoy the journey and happy learning!
 

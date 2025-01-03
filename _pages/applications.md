@@ -21,7 +21,7 @@ To indicate that you’ve read this page, please start your email subject line w
 ## What about visiting?
 
 Yes, I’m happy to host curious and self-motivated visiting students.
-If you're interested, please email me directly with your CV and transcript. Kindly note that most of my projects require a minimum commitment of six months. Please visit [here](https://www.uvic.ca/research-services//info-for/visiting-researchers/index.php) for more information.
+If you're interested, please email me directly with your CV and transcript. Kindly note that most of my projects require a minimum commitment of six months. Please visit [here](https://www.uvic.ca/graduate/info-for/visiting-students/index.php) for more information.
 
 ## How to apply as a postdoc?
 

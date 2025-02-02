@@ -24,7 +24,7 @@ nav_order: 3
 **I am passionate about making meaningful contributions to our communities.**
 - [Ro'ya-CV4Africa](https://ro-ya-cv4africa.github.io/homepage/)
 - [ML4H Mentor](https://ahli.cc/ml4h) (2024)
-- [BAI ELAI Mentor](https://www.blackinai.org) (2023 - 2025)
+- [BAI ELAI Mentor](https://www.blackinai.org) (2023 -- )
 
-**I am participating as an interviewer in the admissions process for the UBC MD Undergraduate Program.**
+**I am an interviewer for the UBC MD Undergraduate Program admissions process.**
 

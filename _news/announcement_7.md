@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I will be co-organizing the [2025 African Computer Vision Summer](https://www.acvss.ai/). Applications are open untill March 15th.
+I will be co-organizing the [2025 African Computer Vision Summer](https://www.acvss.ai/).<br>
+Applications are open untill March 15th.

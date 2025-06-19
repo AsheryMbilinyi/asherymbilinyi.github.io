@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uvic.ca/ecs/computerscience/index.php'>Engineering & Computer Science Building</a>. Room 454. 3800 Finnerty Road. 
+subtitle: <a href='https://www.uvic.ca/ecs/computerscience/index.php'>Engineering & Computer Science Building</a>. Room 562. 3800 Finnerty Road. 
 
 profile:
   align: right

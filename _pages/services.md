@@ -10,11 +10,11 @@ nav_order: 3
 
 **I have served as an organizing committee member at the following conferences/workshops/summers schools/events.**
 - [ACVSS](https://www.acvss.ai/) (2025)
+- [DS4Health](https://ds4healthafrica.github.io/) (2024--)
 - [ICOIACT](https://icoiact.org/) (2024)
-- [DS4Health](https://ro-ya-cv4africa.github.io/homepage/event_workshop.html) (2024--)
 
-**I have served as a reviewer at the following journal/conferences.
 
+**I have served as a reviewer at the following journal/conferences.**
 - [MICCAI](https://miccai.org/) (2024 --)
 - [ISBI](https://biomedicalimaging.org/2025/) (2025)
 - [CHIL](https://chil.ahli.cc/) (2025)

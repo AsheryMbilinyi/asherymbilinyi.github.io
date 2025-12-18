@@ -14,7 +14,7 @@ members:
   people:
     - name: Ashery Mbilinyi
       description: Head 
-      website:
+      website: https://asherymbilinyi.github.io/
       picture: headshot.png
 
     - name: Nidita Roy
@@ -31,7 +31,7 @@ members:
     - name: Rishabh Jha
       description: MSc Student
       website: https://www.linkedin.com/in/rishabhjhatheaiguy/
-      picture: 
+      picture: rishabh.jpeg
 
 visitors:
   title: Visitors/Interns
@@ -40,6 +40,12 @@ visitors:
       description: BSc Student
       website:
       picture: 
+
+  
+    - name: Cornelius Maroa
+      description: Intern
+      website: https://marwamasese.netlify.app/
+      picture: cornelius.jpg
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-permalink: /news/
+permalink: /News/
 
 nav: true
 nav_order: 2

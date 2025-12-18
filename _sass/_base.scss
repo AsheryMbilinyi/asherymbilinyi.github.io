@@ -167,7 +167,7 @@ ul.task-list input[type="checkbox"] {
 // Card
 
 .card {
-  background-color: var(--global-card-bg-color);
+  background-color: transparent;
 
   .card-img {
     width: 100%;
@@ -667,8 +667,28 @@ footer.sticky-bottom {
   }
 
   .card {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+
     img {
       width: 100%;
+    }
+
+    .avatar {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      display: block;
+      margin: 0 auto;
+      border: none;
+      box-shadow: none;
+    }
+
+    .card-title {
+      font-size: 0.95rem;
+      margin: 0.5rem 0;
     }
   }
 
@@ -678,7 +698,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: calc(100% / 4 - 10px);
     margin-bottom: 10px;
   }
 

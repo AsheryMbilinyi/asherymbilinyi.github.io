@@ -38,8 +38,8 @@ visitors:
   people:
     - name: Smit Amin
       description: BSc Student
-      website:
-      picture: 
+      website: https://www.linkedin.com/in/smit-amin-dev/
+      picture: smit.png
 
   
     - name: Cornelius Maroa

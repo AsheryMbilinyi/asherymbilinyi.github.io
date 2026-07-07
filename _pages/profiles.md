@@ -19,7 +19,7 @@ members:
 
     - name: Nidita Roy
       description: MSc Student
-      website: https://scholar.google.ca/citations?user=n67PhNEAAAAJ&hl=en&oi=ao
+      website: https://www.researchgate.net/profile/Nidita-Roy
       picture: nidita.jpeg
 
     - name: Amirhossein Roodaki

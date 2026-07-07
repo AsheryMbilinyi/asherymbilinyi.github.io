@@ -22,7 +22,7 @@ members:
       website: https://www.researchgate.net/profile/Nidita-Roy
       picture: nidita.jpeg
 
-    - name: Amirhossein Roodaki
+    - name: AmirHossein Roodaki
       description: MSc Student
       website: https://orcid.org/0009-0008-5765-0529
       picture: amirhossein.jpeg

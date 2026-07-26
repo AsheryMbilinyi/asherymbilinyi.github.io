@@ -20,7 +20,7 @@ nav_order: 3
 - [CHIL](https://chil.ahli.cc/) (2025)
 - [IEEE Access](https://ieeeaccess.ieee.org/) 
 - [Journal of Healthcare Informatics Research](https://link.springer.com/journal/41666)
-- [IEEE-EMBS BHI](https://bhi.embs.org/2024/) (2024)
+- [IEEE-EMBS BHI](https://bhi.embs.org/2024/) (2024 --)
 - [Deep Learning Indaba](https://deeplearningindaba.com)(2024)
 - [ACVSS](https://www.acvss.ai/) (2024--)
 

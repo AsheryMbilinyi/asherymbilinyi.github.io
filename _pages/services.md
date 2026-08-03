@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
-**I am a delegate for the first edition of [Science Meets Parliament-British Columbia](https://sciencepolicy.ca/programs/science-meets-parliament/smp-bc-2025/smp-bc-2025-delegates-selected/#).**
+**I am a delegate for the first edition of [Science Meets Parliament-British Columbia](https://sciencepolicy.ca/programs/science-meets-parliament/).**
 
 **I have served as an organizing committee member at the following conferences/workshops/summers schools/events.**
 - [ACVSS](https://www.acvss.ai/) (2025)

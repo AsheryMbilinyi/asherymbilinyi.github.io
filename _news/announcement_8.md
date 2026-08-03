@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am selected as a delegate for Science Meet Parliament-British Columbia [SMP-BC 2025](https://sciencepolicy.ca/programs/science-meets-parliament/smp-bc-2025/smp-bc-2025-delegates-selected/#).<br>
+I am selected as a delegate for Science Meet Parliament-British Columbia [SMP-BC 2025](https://sciencepolicy.ca/programs/science-meets-parliament/).<br>

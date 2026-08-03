@@ -1,0 +1,17 @@
+# List your honors and awards here, most recent year first.
+# Multiple awards in the same year go in the same `items` list.
+- year: "2021"
+  items:
+    - "2nd Place, European Roche Healthcare Xplorers Competition — built a GAN model to generate cancer patient-reported outcomes"
+- year: "2017 – 2021"
+  items:
+    - "Swiss Government Excellence Scholarship — to pursue PhD studies in Switzerland"
+- year: "2018"
+  items:
+    - "Winner, Hackathon at the Summer School for Big Data and Machine Learning — Leipzig, Germany"
+- year: "2015 – 2017"
+  items:
+    - "ABE Initiative Scholarship (JICA) — to pursue MSc studies in Japan"
+- year: "2013"
+  items:
+    - "Best Student, Class of 2013 — Dar es Salaam Institute of Technology"

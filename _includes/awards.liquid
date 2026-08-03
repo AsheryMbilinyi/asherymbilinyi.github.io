@@ -1,0 +1,16 @@
+<div class="awards">
+  {% if site.data.awards != blank %}
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for entry in site.data.awards %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ entry.year }}</th>
+            <td>{{ entry.items | join: "; " }}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No honors or awards listed yet.</p>
+  {% endif %}
+</div>

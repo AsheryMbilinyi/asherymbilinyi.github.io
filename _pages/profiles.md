@@ -19,12 +19,12 @@ members:
 
     - name: Nidita Roy
       description: MSc Student
-      website: https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en
+      website: https://nidita.github.io/
       picture: nidita.jpeg
 
     - name: AmirHossein Roodaki
-      description: MSc Student
-      website: https://orcid.org/0009-0008-5765-0529
+      description: PhD Student
+      website: https://github.com/Roodaki
       picture: amirhossein.jpeg
       
 

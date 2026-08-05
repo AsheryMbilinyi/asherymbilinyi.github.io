@@ -15,6 +15,7 @@ nav_order: 3
 
 
 **I have served as a reviewer at the following journal/conferences.**
+- [WSDM] (https://www.wsdm-conference.org/2027/) (2026 --)
 - [MICCAI](https://miccai.org/) (2024 --)
 - [IEEE-EMBS BHI](https://bhi.embs.org/2026/) (2024 --)
 - [ACVSS](https://www.acvss.ai/) (2024--)

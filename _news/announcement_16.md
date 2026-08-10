@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at [MICAD 2026](https://www.micad.org/).
+1 paper accepted at [MICAD 2026](https://www.micad.org/).

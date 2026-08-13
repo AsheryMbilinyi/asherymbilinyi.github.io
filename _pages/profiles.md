@@ -13,7 +13,7 @@ members:
   title: Members
   people:
     - name: Ashery Mbilinyi
-      description: Head 
+      description: Lead 
       website: https://asherymbilinyi.github.io/
       picture: headshot.png
 

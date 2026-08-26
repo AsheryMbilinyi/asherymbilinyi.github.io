@@ -18,7 +18,7 @@ nav_order: 3
 - [WSDM](https://www.wsdm-conference.org/2027/) (2026 --)
 - [MICCAI](https://miccai.org/) (2024 --)
 - [IEEE-EMBS BHI](https://bhi.embs.org/2026/) (2024 --)
-- [Who Verifies the Agents - NeurIPS Workshop] (https://verify-agents-workshop.github.io/)
+- [Who Verifies the Agents - NeurIPS Workshop](https://verify-agents-workshop.github.io/) (2026)
 - [ISBI](https://biomedicalimaging.org/2025/) (2025)
 - [CHIL](https://chil.ahli.cc/) (2025)
 - [IEEE Access](https://ieeeaccess.ieee.org/) 

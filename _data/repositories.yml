@@ -5,7 +5,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - AsheryMbilinyi/Acceleration-of-microstructure-imaging-in-diffusion-MRI
-  - AsheryMbilinyi/Medical-Image-Analysis
-  - AsheryMbilinyi/Kaggle-Competitions
-  - AsheryMbilinyi/Malaria-Risk-Analysis
+  - https://github.com/AsheryMbilinyi/abdominal-trauma-ct-continual-learning
+  - https://github.com/AsheryMbilinyi/drhouse
+  - https://github.com/AsheryMbilinyi/agentflow

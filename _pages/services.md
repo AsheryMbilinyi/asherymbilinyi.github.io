@@ -18,18 +18,19 @@ nav_order: 3
 - [WSDM](https://www.wsdm-conference.org/2027/) (2026 --)
 - [MICCAI](https://miccai.org/) (2024 --)
 - [IEEE-EMBS BHI](https://bhi.embs.org/2026/) (2024 --)
-- [ACVSS](https://www.acvss.ai/) (2024--)
-- [Journal of Healthcare Informatics Research](https://link.springer.com/journal/41666) (2025 --)
+- [Who Verifies the Agents - NeurIPS Workshop] (https://verify-agents-workshop.github.io/)
 - [ISBI](https://biomedicalimaging.org/2025/) (2025)
 - [CHIL](https://chil.ahli.cc/) (2025)
 - [IEEE Access](https://ieeeaccess.ieee.org/) 
+- [ACVSS](https://www.acvss.ai/) (2024--)
+- [Journal of Healthcare Informatics Research](https://link.springer.com/journal/41666) (2025 --)
 - [Deep Learning Indaba](https://deeplearningindaba.com)(2024)
 
 
 
 **I am passionate about making meaningful contributions to our communities.**
 - [Ro'ya-CV4Africa](https://ro-ya-cv4africa.github.io/homepage/)
-- [ML4H Mentor](https://ahli.cc/ml4h) (2024)
+- [ML4H Mentor](https://ahli.cc/ml4h) (2024 -- )
 - [Deep Learning Indaba](https://deeplearningindaba.com)(2024)
 - [BAI ELAI Mentor](https://www.blackinai.org) (2023 -- )
 

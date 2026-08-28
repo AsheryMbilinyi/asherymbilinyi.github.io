@@ -5,6 +5,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - https://github.com/AsheryMbilinyi/abdominal-trauma-ct-continual-learning
-  - https://github.com/AsheryMbilinyi/drhouse
-  - https://github.com/AsheryMbilinyi/agentflow
+  - AsheryMbilinyi/abdominal-trauma-ct-continual-learning
+  - AsheryMbilinyi/drhouse
+  - AsheryMbilinyi/agentflow

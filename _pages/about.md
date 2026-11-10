@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div class="alert alert-warning" role="alert">
+<div class="alert alert-warning" role="alert" style="display: flow-root;">
   <strong>Note to prospective students:</strong> As of October 23, 2026, I have transitioned to industry and now hold an Adjunct Professor appointment at the University of Victoria. I am <strong>no longer accepting new students</strong>, so please do not email me about graduate positions, internships, or supervision.
 </div>
 
